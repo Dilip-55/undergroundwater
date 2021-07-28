@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/undergroundwater/static/css/main.359622be.chunk.css",
+    "main.js": "/undergroundwater/static/js/main.1a17220b.chunk.js",
+    "main.js.map": "/undergroundwater/static/js/main.1a17220b.chunk.js.map",
+    "runtime-main.js": "/undergroundwater/static/js/runtime-main.2813904f.js",
+    "runtime-main.js.map": "/undergroundwater/static/js/runtime-main.2813904f.js.map",
+    "static/css/2.4be38407.chunk.css": "/undergroundwater/static/css/2.4be38407.chunk.css",
+    "static/js/2.586adb88.chunk.js": "/undergroundwater/static/js/2.586adb88.chunk.js",
+    "static/js/2.586adb88.chunk.js.map": "/undergroundwater/static/js/2.586adb88.chunk.js.map",
+    "static/js/3.f7c0a4c1.chunk.js": "/undergroundwater/static/js/3.f7c0a4c1.chunk.js",
+    "static/js/3.f7c0a4c1.chunk.js.map": "/undergroundwater/static/js/3.f7c0a4c1.chunk.js.map",
+    "index.html": "/undergroundwater/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/undergroundwater/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.359622be.chunk.css.map": "/undergroundwater/static/css/main.359622be.chunk.css.map",
+    "static/js/2.586adb88.chunk.js.LICENSE.txt": "/undergroundwater/static/js/2.586adb88.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/undergroundwater/static/media/img.17336047.jpg",
+    "static/media/img.6689638f.jpeg": "/undergroundwater/static/media/img.6689638f.jpeg",
+    "static/media/img2.9aaebbc8.jpeg": "/undergroundwater/static/media/img2.9aaebbc8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2813904f.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.586adb88.chunk.js",
+    "static/css/main.359622be.chunk.css",
+    "static/js/main.1a17220b.chunk.js"
+  ]
+}

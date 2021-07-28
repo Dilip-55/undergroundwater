@@ -1,6 +1,6 @@
 import './home.css';
 import image from '../images/img.jpeg';
-import images from '../images/img2.jpeg';
+import images from '../images/img2.jpeg'
 function Home (){
     return (
         <div className="main">

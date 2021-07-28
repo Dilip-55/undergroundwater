@@ -1,31 +1,34 @@
 import './home.css';
-import logo from '../images/img.jpeg'
+import image from '../images/img.jpeg';
+import images from '../images/img2.jpeg';
 function Home (){
     return (
         <div className="main">
            
- <div class="profile-card">
+ <div className="profile-card">
  <div className="blur"></div>
 
-    <div class="card-header">
+    <div className="card-header">
     <h1 className="head" style={{color:"white"}}>UnderGround Water prediction By Narayana</h1>
     
 
-  <div class="card mb-3" style={{maxWidth:"540px"}}>
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src={logo} class="img-fluid rounded" alt="image"></img>
-      <img src={logo} class="img-fluid rounded" alt="image"></img>
+  <div className="card mb-3" style={{maxWidth:"540px"}}>
+  <div className="row g-0">
+    <div className="col-md-4">
+    <img src={images} className="img-fluid rounded" alt="image"></img>
+      <img src={image} className="img-fluid rounded" alt="image"></img>
+     
+     
     </div>
     <div className="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title"><u>About</u></h5>
-        <p class="card-text"> Narayana pyeneti
+      <div className="card-body">
+        <h5 className="card-title"><u>About</u></h5>
+        <p className="card-text"> Narayana pyeneti
 Expirenced more than<b>10 years</b>  in UnderGround Water prediction</p>
 <p className="card-text"><b>100+ bore points</b>..</p>
 <p className="card-text"><b>90% success rate</b></p>
       </div>
-      <div class="col-md-8">
+      <div className="col-md-8">
         <div className="card-body">
         <h5 className="card-title">
       <u>Address</u> 
@@ -36,7 +39,7 @@ Expirenced more than<b>10 years</b>  in UnderGround Water prediction</p>
         </div>
    
     </div>
-    <div class="col-md-8">
+    <div className="col-md-8">
         <div className="card-body">
         <h5 className="card-title">
    <u>Cost
@@ -46,7 +49,7 @@ Expirenced more than<b>10 years</b>  in UnderGround Water prediction</p>
         </div>
    
     </div>
-      <div class="col-md-8">
+      <div className="col-md-8">
         <div className="card-body">
         <h5 className="card-title">
       <u> Phone</u>
